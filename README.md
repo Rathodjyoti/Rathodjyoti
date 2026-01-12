@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rathodjyoti&label=Profile%20views&color=0e75b6&style=flat" alt="rathodjyoti" /> </p>
 
-- 🔭 I’m currently working on **Android app development**
+- 🔭 I’m currently working on **Devops Engineer**
 
 - 🌱 I’m currently learning **Machine learning with python**
 
